@@ -1,2 +1,2 @@
 # JavaScript
-Learning JavaScript as a beginner
+Learning JavaScript as a beginner .
